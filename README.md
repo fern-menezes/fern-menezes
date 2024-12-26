@@ -65,7 +65,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px; margin-top: 2px" 
+    style="padding-right: 10px; margin-top: 2px; padding-top: 1px" 
     src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/typescript.svg" 
 />
 <img 
