@@ -42,15 +42,15 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= ""
+    src= "https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/html5.svg"
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
-    src=""
+    style="padding-right: 10px; " 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/css3.svg"
 />
 <img 
     align="left" 
@@ -58,15 +58,15 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src= ""
+    src= "https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/js.svg"
 />
 <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="" 
+    width="31px" 
+    style="padding-right: 10px; margin-top: 2px" 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/typescript.svg" 
 />
 <img 
     align="left" 
@@ -74,7 +74,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/react.svg" 
 />
 
 
@@ -84,16 +84,16 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/git.svg" 
 />
 
 <img 
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="30px" 
+    width="32px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/mysql.svg" 
 />
 
 <img 
@@ -102,7 +102,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/python.svg" 
 />
 
 <br/>
@@ -115,7 +115,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; margin-bottom: 12px;" 
+    style="padding-right: 14px; margin-bottom: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
