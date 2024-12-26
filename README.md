@@ -64,7 +64,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="31px" 
+    width="30px" 
     style="padding-right: 10px; margin-top: 2px" 
     src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/typescript.svg" 
 />
@@ -115,7 +115,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 14px; margin-bottom: 12px;" 
+    style="padding-right: 14px; padding-bottom: 12px; margin-bottom: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
@@ -123,6 +123,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-top: 12px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fern-menezes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
