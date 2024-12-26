@@ -40,7 +40,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="27px" 
     style="padding-right: 10px;" 
     src= "https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/html5.svg"
 />
@@ -48,7 +48,7 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="27px" 
     style="padding-right: 10px; " 
     src="https://raw.githubusercontent.com/fern-menezes/fern-menezes/33868c5b371ea898793850b2b55150d721639750/assets/css3.svg"
 />
