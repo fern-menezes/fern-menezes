@@ -111,14 +111,6 @@ Oi! Sou a Fernanda, e sou de SP. Formada em Administração e atualmente estudan
 ### 📈 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="100" 
-    style="padding-right: 14px; padding-bottom: 12px; margin-bottom: 12px;" 
-    scr="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
