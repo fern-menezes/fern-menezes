@@ -27,30 +27,18 @@
 </table>
 
 <h2>📂 Habilidades/</h2>
-
 <table>
   <tr>
-    <!-- Frontend -->
-    <td style="vertical-align: top; padding-right: 40px;">
-      <h3>🎨 Frontend</h3>
-      <p>
-        <img src="./assets/html5.png" alt="HTML" width="24px" style="margin-right: 6px; vertical-align: middle;"/> HTML<br>
-        <img src="./assets/css3.png" alt="CSS" width="24px" style="margin-right: 6px; vertical-align: middle;"/> CSS<br>
-        <img src="./assets/react.png" alt="React" width="24px" style="margin-right: 6px; vertical-align: middle;"/> React<br>
-        <img src="./assets/javascript.png" alt="JavaScript" width="24px" style="margin-right: 6px; vertical-align: middle;"/> JavaScript<br>
-        <img src="./assets/typescript.png" alt="TypeScript" width="24px" style="margin-right: 6px; vertical-align: middle;"/> TypeScript
-      </p>
-    </td>
-
-<!-- Backend -->
-<td style="vertical-align: top;">
-      <h3>🛠️ Backend</h3>
-      <p>
-        <img src="./assets/nodejs.png" alt="Node.js" width="24px" style="margin-right: 6px; vertical-align: middle;"/> Node.js<br>
-        <img src="./assets/mysql.png" alt="MySQL" width="24px" style="margin-right: 6px; vertical-align: middle;"/> MySQL<br>
-        <img src="./assets/python.png" alt="Python" width="24px" style="margin-right: 6px; vertical-align: middle;"/> Python<br>
-        <img src="./assets/C.png" alt="C" width="24px" style="margin-right: 6px; vertical-align: middle;"/> C
-      </p>
+    <td style="padding-right: 20px;">
+        <img src="./assets/html5.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/css3.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/react.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/javascript.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/typescript.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/nodejs.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/mysql.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/python.png" width="32px" style="margin: 4px;"/>
+        <img src="./assets/C.png" width="32px" style="margin: 4px;"/>
     </td>
   </tr>
 </table>
