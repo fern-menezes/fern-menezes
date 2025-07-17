@@ -19,6 +19,7 @@
 </td>
     <td valign="top" width="30%" align="center">
 
+
 <img src="./assets/avatar.png" alt="Avatar Fernanda" width="120px" style="border-radius: 12px;"/>
 
 </td>
@@ -30,7 +31,6 @@
 
 ### 📈 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -53,7 +53,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="100%">
 
 ## 📂 Habilidades/
 ├── 🎨 **Frontend**/  
@@ -70,14 +70,4 @@
 
 
 </td>
-<td valign="top" width="30%">
-
-## 📂 Projetos/
-├── 🌿 Portfolio Fern → [link do portfólio]  
-└── 🚧 Em andamento/  
-  ├── 📦 [CSS Study](https://github.com/fern-menezes/book-club)  
-  └── 🐟 [App Vammo](https://github.com/fern-menezes/vammo_front)  
-
-</td>
-  </tr>
 </table>
