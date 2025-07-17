@@ -29,21 +29,22 @@
 
 ### 📈 Estatísticas
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="150" 
-  style="padding-right: 14px; padding-bottom: 12px;" 
-  src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 14px; padding-bottom: 12px; margin-bottom: 12px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
-  align="left" 
-  alt="GitHub Top Langs" 
-  height="150" 
-  style="padding-bottom: 12px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fern-menezes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      style="padding-top: 12px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fern-menezes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 <div style="clear: both;"></div>
 
