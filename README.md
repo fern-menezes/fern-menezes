@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
 
 ## 📂 Habilidades/
 ├── 🎨 Frontend/  
@@ -69,7 +69,7 @@
 
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
 ## 📂 Projetos/
 ├── 🌿 Portfolio Fern → [link do portfólio]  
