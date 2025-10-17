@@ -59,7 +59,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 14px; padding-bottom: 12px; margin-bottom: 12px;" 
+    style="padding-right: 2px; padding-bottom: 12px; margin-bottom: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br" 
   />
   <img 
