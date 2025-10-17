@@ -3,23 +3,29 @@
 
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/fern-menezes/" style="display:inline-block; padding:5px 20px; background-color:#5a7a66; color:white; text-decoration:none; border-radius:5px;">⩨ Linkedin</a>
-<a href="https://www.linkedin.com/in/fern-menezes/" style="display:inline-block; padding:5px 20px; background-color:#a9af8b; color:white; text-decoration:none; border-radius:5px;">◰ Instagram</a>
-<a href="https://www.linkedin.com/in/fern-menezes/" style="display:inline-block; padding:5px 20px; background-color:#f1e5d9; color:#5a7a66; text-decoration:none; border-radius:5px;">※ Portfólio</a>
-
+ <a href="https://www.linkedin.com/in/fern-menezes/">
+    <img src="https://img.shields.io/badge/⩨%20Linkedin-5a7a66?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fern-menezes/">
+    <img src="https://img.shields.io/badge/◰%20Instagram-a9af8b?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+ <a href="https://www.linkedin.com/in/fern-menezes/">
+    <img src="https://img.shields.io/badge/※%20Portfólio-f1e5d9?style=for-the-badge&logo=githubpages&logoColor=5a7a66" />
+  </a>
 </p>
 
 <h2 align="center">♡ About</h2>
 <p align="center">Apaixonada por tecnologia, adoro criar aplicações web que resolvem problemas reais. Tenho grande interesse pela área de cibersegurança e design (UI/UX).</p>
-<ul align="center" style="list-style:none">
-  <li>🎓 Engenharia de Software – 1º semestre</li>
-  <li>📊 Formada em Administração</li>
-  <li>💻 Pós-graduação em Análise de Sistemas</li>
-  <li>🔐 Pós-graduação em Cibersegurança (em andamento)</li>
-  <li>🧠 Certificação: Desenvolvedora Full Stack</li>
-  <li>🛠️ Portfólio em construção</li>
-  <li>🎨 Faço desenhos como hobby</li>
-</ul>
+<p align="center">
+🎓 Engenharia de Software – 1º semestre <br> 
+📊 Formada em Administração  <br> 
+💻 Pós-graduação em Análise de Sistemas  <br> 
+🔐 Pós-graduação em Cibersegurança (em andamento) <br>  
+🧠 Certificação: Desenvolvedora Full Stack  <br> 
+🛠️ Portfólio em construção  <br> 
+🎨 Faço desenhos como hobby  <br> 
+</p>
+
 <img src="./assets/header.gif" alt="header"/>
 
 
@@ -48,7 +54,7 @@
 </p>
 <br>
 <h2 align="center"> ♡ Statistics</h2>
-
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -56,13 +62,13 @@
     style="padding-right: 14px; padding-bottom: 12px; margin-bottom: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=fern-menezes&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      style="padding-bottom: 12px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fern-menezes&theme=graywhite&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="150" 
+        style="padding-bottom: 12px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fern-menezes&theme=graywhite&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</p>
 
 
