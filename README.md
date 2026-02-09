@@ -24,6 +24,8 @@
 🧠 Certificação: Desenvolvedora Full Stack  <br> 
 🛠️ Portfólio em construção  <br> 
 🎨 Faço desenhos como hobby  <br> 
+ <br> 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=fern-menezes.visitor-badge&left_color=black&right_color=darkorchid"/>
 </p>
 
 <img src="./assets/header.gif" alt="header"/>
